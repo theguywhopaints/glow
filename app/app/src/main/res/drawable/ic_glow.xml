@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- A bulb. -->
+    <path
+        android:fillColor="#FFB347"
+        android:pathData="M12,2a7,7 0,0 0,-4 12.74V17a1,1 0,0 0,1 1h6a1,1 0,0 0,1 -1v-2.26A7,7 0,0 0,12 2z" />
+    <path
+        android:fillColor="#FFD9A0"
+        android:pathData="M9,19h6v1a2,2 0,0 1,-2 2h-2a2,2 0,0 1,-2 -2z" />
+</vector>

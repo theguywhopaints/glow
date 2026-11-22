@@ -1,0 +1,24 @@
+# Secrets: the Tapo login and the TV's scene key
+.tapo
+.scene_token
+.env
+.env.*
+
+# Generated personal page: its links and QR codes contain the scene key
+shortcuts/
+
+# Signing
+*.jks
+*.keystore
+
+# Build output and local environments
+build/
+.gradle/
+local.properties
+*.apk
+*.aab
+venv/
+.venv/
+__pycache__/
+.idea/
+.DS_Store
